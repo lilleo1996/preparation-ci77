@@ -1,0 +1,5 @@
+.pokemons ul {
+    height: 250px;
+    overflow: auto;
+    list-style-type: none;
+}
