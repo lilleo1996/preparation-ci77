@@ -23,7 +23,7 @@ const Pokemons = () => {
 	// 	console.log(data);
 	// 	setPokemons(data.results)
     // }
-
+	// eslint-disable-next-line
     const handleFetchPokemon = useCallback(() => {
         axios.get('https://pokeapi.co/api/v2/pokemon')
             .then(function (response) {

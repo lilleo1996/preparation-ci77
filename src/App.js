@@ -13,8 +13,6 @@ import Courses from './pages/Courses';
 import Pokemons from './pages/Pokemons';
 
 function App() {
-  const navigate = useNavigate();
-
   return (
     <div className="app">
       <Header />
