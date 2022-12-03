@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lilleo1996/preparation-ci77/static/css/main.19a909e4.css",
+    "main.js": "/lilleo1996/preparation-ci77/static/js/main.dd5237e9.js",
+    "static/js/787.ba3e4f72.chunk.js": "/lilleo1996/preparation-ci77/static/js/787.ba3e4f72.chunk.js",
+    "index.html": "/lilleo1996/preparation-ci77/index.html",
+    "main.19a909e4.css.map": "/lilleo1996/preparation-ci77/static/css/main.19a909e4.css.map",
+    "main.dd5237e9.js.map": "/lilleo1996/preparation-ci77/static/js/main.dd5237e9.js.map",
+    "787.ba3e4f72.chunk.js.map": "/lilleo1996/preparation-ci77/static/js/787.ba3e4f72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a909e4.css",
+    "static/js/main.dd5237e9.js"
+  ]
+}
